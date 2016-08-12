@@ -1,0 +1,18 @@
+{
+  "name": "tonejs-demo",
+  "version": "1.0.0",
+  "description": "A demo of tone-js and nexusUI audio components",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack-watch": "./node_modules/.bin/webpack --watch"
+  },
+  "author": "Adam Berkowitz",
+  "license": "ISC",
+  "dependencies": {
+    "tone": "^0.7.1"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
